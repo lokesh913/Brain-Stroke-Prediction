@@ -1,4 +1,3 @@
 # Brain-Stroke-Prediction
 <Br>
-https://github.com/user-attachments/assets/b172e6e7-a76d-4e07-b92c-dcf540f34847
-
+https://drive.google.com/file/d/1ojUiCPbW7B7TE6lMU7GhYcLm5hrtZ_Rt/view?usp=sharing
