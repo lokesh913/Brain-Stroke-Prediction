@@ -1,2 +1,4 @@
 # Brain-Stroke-Prediction
-![image](https://github.com/user-attachments/assets/59251f59-e3de-482d-93a6-29d125eca6c3)
+<Br>
+https://github.com/user-attachments/assets/b172e6e7-a76d-4e07-b92c-dcf540f34847
+
